@@ -10,6 +10,10 @@ namespace Graf_Example1
     {
         static void Main(string[] args)
         {
+            int sayi = 4;
+            int rakam = 5;
+
+            int toplam = sayi + rakam;
         }
     }
 }
